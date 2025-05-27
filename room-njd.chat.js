@@ -23,9 +23,9 @@ margin-left: 40px !important;
 }
 
 .nosel.d-flex.room.r19710be0e2cx8d0c44dx-7p5v5d .corner.fa.fa-user.label.label-primary.uc {
-  letter-spacing: 1px;
+  letter-spacing: 0px;
   -webkit-text-fill-color: #fff;
-  border-radius: 15px 0px 15px 0px !important;
+  border-radius: 15px 15px 15px 15px !important;
   height: 27px;
   margin-top: 40px !important;
   margin-bottom: 0px !important;
@@ -89,20 +89,20 @@ $(`<style>
 }
 .nosel.d-flex.r19710f77fb6x51a60533-x40o9zu .corner.fa.fa-user.label.uc.fa-microphone.label-danger {
 letter-spacing: 1px;
--webkit-text-fill-color: #fff;
+-webkit-text-fill-color: #00346e;
 border-radius: 15px 0px 15px 0px !important;
 height: 27px;
 margin-top: 22px !important;
 margin-bottom: 0px !important;
 background-color: #d9534f00;
-margin-left: 40px !important;
+margin-left: -173px !important;
 
 }
 
 .nosel.d-flex.room.r19710f77fb6x51a60533-x40o9zu .corner.fa.fa-user.label.label-primary.uc {
-  letter-spacing: 1px;
+  letter-spacing: 0px;
   -webkit-text-fill-color: #fff;
-  border-radius: 15px 0px 15px 0px !important;
+  border-radius: 15px 15px 15px 15px !important;
   height: 27px;
   margin-top: 40px !important;
   margin-bottom: 0px !important;
