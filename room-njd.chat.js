@@ -1,6 +1,6 @@
 var rid='19710be0e2cx8d0c44dx-7p5v5d';
 $("style:eq(0)").append(`#d2 .roomh[onclick="rjoin('${rid}')"]{
-background-size: 220% auto;border-radius:  50px!important;border: 1px solid #0000;
+background-size: 220% auto;border-radius:  50px!important;border: 0px solid #0000;
 }`);
 
 $(`<style>
@@ -77,7 +77,7 @@ display: none;
 
 var rid='19710f77fb6x51a60533-x40o9zu';
 $("style:eq(0)").append(`#d2 .roomh[onclick="rjoin('${rid}')"]{
-background-size: 220% auto;border-radius:  50px!important;border: 1px solid #0000;
+background-size: 220% auto;border-radius:  50px!important;border: 0px solid #0000;
 }`);
 
 $(`<style>
