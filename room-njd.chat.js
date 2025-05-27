@@ -76,7 +76,7 @@ display: none;
 
 
 
-https://raw.githack.com/noorromas/njd.chat/main/index.html
+
 
 
 https://raw.githack.com/noorromas/njd.chat/main/index.html
