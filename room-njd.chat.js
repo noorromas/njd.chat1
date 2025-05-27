@@ -10,7 +10,7 @@ $(`<style>
   -webkit-text-fill-color: white;
   animation: grad 2s cubic-bezier(.445,.05,.55,.95) alternate infinite;
 }
-.nosel.d-flex.room.r19710be0e2cx8d0c44dx-7p5v5d .corner.fa.fa-user.label.uc.fa-microphone.label-danger {
+.nosel.d-flex.r19710be0e2cx8d0c44dx-7p5v5d .corner.fa.fa-user.label.uc.fa-microphone.label-danger {
 letter-spacing: 1px;
 -webkit-text-fill-color: #fff;
 border-radius: 15px 0px 15px 0px !important;
@@ -33,7 +33,7 @@ margin-left: 40px !important;
   margin-left: 40px !important;
 }
 
-.nosel.d-flex.room.r19710be0e2cx8d0c44dx-7p5v5d.bord {border-inline: 0px solid #4c121e !important;}
+.nosel.d-flex.room.r19710be0e2cx8d0c44dx-7p5v5d {border-inline: 0px solid #4c121e !important;}
 .nosel.d-flex.room.r19710be0e2cx8d0c44dx-7p5v5d .dots.mini.u-msg {
 text-align: center;
 margin-top: 75px !important;
@@ -43,7 +43,7 @@ opacity: 0;
 
 }
 .nosel.d-flex.room.r19710be0e2cx8d0c44dx-7p5v5d {
-background-image: url(https://up6.cc/2025/05/174833218332821.gif);
+    background-image: url(https://up6.cc/2024/04/171406149869351.gif);
     background-size: cover;
     border-radius: 15px 0px 15px 0px;
     display: inline-block;
@@ -73,10 +73,3 @@ margin-top: 10px;
 display: none;
 }
 @keyframes textclip {to {background-position: 200% center;}}</style>`).insertBefore('body');
-
-
-
-
-
-
-https://raw.githack.com/noorromas/njd.chat/main/index.html
