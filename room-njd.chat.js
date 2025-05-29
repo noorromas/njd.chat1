@@ -333,7 +333,7 @@ height: 27px;
 margin-top: 40px !important;
 margin-bottom: 0px !important;
 background-color: #d9534f00;
-margin-left: 47px !important;
+margin-left: 116px !important;
 text-align: left !important;
 }
 
