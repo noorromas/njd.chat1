@@ -678,14 +678,14 @@ $(`<style>
 }
 .nosel.d-flex.room.r197071c3479xa5a7b0f3x-kzhazh .corner.fa.fa-user.label.uc.fa-microphone.label-danger {
   letter-spacing: 1px;
-  -webkit-text-fill-color: #d8d8d8;
+  -webkit-text-fill-color: #595959;
   border-radius: 15px 0px 15px 0px !important;
   height: 27px;
   margin-top: 40px !important;
   margin-bottom: 0px !important;
   background-color: #d9534f00;
   text-align: left!important;
-  margin-left: 45px!important;
+  margin-left: 77px!important;
 }
 .nosel.d-flex.room.r197071c3479xa5a7b0f3x-kzhazh.bord {border-inline: 0px solid #4c121e !important;}
 .nosel.d-flex.room.r197071c3479xa5a7b0f3x-kzhazh .dots.mini.u-msg {
