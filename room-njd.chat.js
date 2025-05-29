@@ -700,7 +700,7 @@ $(`<style>
 	background-size: 90% 100%;
 }
 .nosel.d-flex.room.r197071c3479xa5a7b0f3x-kzhazh {
-    background-image: url(https://up6.cc/2025/05/17485315218931.gif);
+    background-image: url(https://up6.cc/2025/05/174853210168211.gif);
     background-size: cover;
     border-radius: 15px 0px 15px 0px;
     display: inline-block;
