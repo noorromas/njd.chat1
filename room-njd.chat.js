@@ -354,13 +354,13 @@ margin-top: 17px !important;
 margin-left: 21px;
 -webkit-text-fill-color: white;
 animation: textclip 2s linear infinite;
-background-image: url(https://i.ibb.co/JzgnvW8/61.gif);
+background-image: url();
 color: transparent !important;
 border-radius: 10px !important;
 padding: 0px;
 }
 .nosel.d-flex.room.r1954d7f930axc6212605-x-yfjje9 {
-    background-image: url(https://up6.cc/2023/02/167584583247411.png);
+    background-image: url(https://up6.cc/2025/05/17485089064631.gif);
     background-size: cover;
     border-radius: 2px;
     display: inline-block;
@@ -381,9 +381,9 @@ padding: 0px;
 }
 .nosel.d-flex.room.r1954d7f930axc6212605-x-yfjje9 .u-topic.dots {
 text-transform: uppercase;
--webkit-text-fill-color: #fff;
+-webkit-text-fill-color: #efeff3;
 animation: textclip 2s linear infinite;
-background-image: url(https://i.ibb.co/JzgnvW8/61.gif);
+background-image: url();
 color: transparent !important;
 background-size: 100% 100%;
 margin-top: 10px;
@@ -657,4 +657,5 @@ setInterval(function () {
             } 
         } 
     }, 10);
+
 
