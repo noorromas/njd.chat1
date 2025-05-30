@@ -177,13 +177,13 @@ margin-left: 173px !important;
 
 .nosel.d-flex.room.r1971cb57ec8x01434d43x-vf95n5 .corner.fa.fa-user.label.label-primary.uc {
   letter-spacing: 0px;
-  -webkit-text-fill-color: #fff;
+  -webkit-text-fill-color: #3c763d;
   border-radius: 15px 15px 15px 15px !important;
   height: 27px;
   margin-top: 40px !important;
   margin-bottom: 0px !important;
   background-color: #d9534f00!important;
-  margin-left: 40px !important;
+  margin-left: 173px !important;
 }
 
 .nosel.d-flex.room.r1971cb57ec8x01434d43x-vf95n5 {border-inline: 0px solid #4c121e !important;}
