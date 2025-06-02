@@ -799,8 +799,8 @@ height: 52px;
 #users.mshanaa1 .mini.u-msg{text-align:center;}#dpnl.mshanaa1.bg{background-image:linear-gradient(225deg,#ce96b3 0%,#d091b1 29%,#eec6da 67%,#b77c9a 100%) */}#rooms.mshanaa1 .corner.fa.fa-user.label.uc.fa-microphone.label-danger{border-radius: 10px 0 10px!important}
 #rooms.mshanaa1 .label-primary {
     border-radius:  10px 0 10px!important;
-    background-color: #d9cfc1!important;
-    border: 1px solid #efefef!important;
+    background-color: #efefef00!important;
+    border: 1px solid #efefef00!important;
 }
 #users.mshanaa1 img.ustat {
     width: 13px !important;
