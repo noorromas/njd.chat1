@@ -1211,7 +1211,7 @@ border-radius:  10px 0 10px!important;
     font-size: 14px !important;
 }
 #d2.king111{background-color:#fff !important;
- background-image: url(https://up6.cc/2025/05/174864042047761.png);
+ background-image: url(https://up6.cc/2025/06/174882886989311.png);
     background-size: cover;
     border-radius: 15px 0px 15px 0px;
     display: inline-block;
