@@ -1211,7 +1211,7 @@ border-radius:  10px 0 10px!important;
     font-size: 14px !important;
 }
 #d2.king111{background-color:#fff !important;
- background-image: url(https://up6.cc/2025/06/174882886989311.png);
+ background-image: url(https://up6.cc/2023/02/167640518838841.png);
     background-size: cover;
     border-radius: 15px 0px 15px 0px;
     display: inline-block;
@@ -1223,7 +1223,7 @@ border-radius:  10px 0 10px!important;
 }
 #upro.king111 .light.fl.pro.break {
     background-image: linear-gradient(225deg,#dfdfdf 0%,#f7f7f7 29%,#f4f4f4 67%,#dbdbdb 100%);
-    background-image: url(https://up6.cc/2025/05/174864089503551.png);
+    background-image: url(https://up6.cc/2023/02/167640518838841.png);
     background-size: 100%;
 }
 #mic.king111 #muteall {
