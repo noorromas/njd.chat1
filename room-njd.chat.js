@@ -821,7 +821,7 @@ background-size: cover;
   background-size: cover;
 }
 #wall.one5 #d2bc {
-  background-image: url("https://b.top4top.io/p_2480032wg1.png")!important;
+  background-image: url("https://up6.cc/2023/02/167640518838841.png")!important;
   background-size: cover;
 }
 #rooms.one5 {
