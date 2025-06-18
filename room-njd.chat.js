@@ -16,7 +16,7 @@ letter-spacing: 1px;
 border-radius: 15px 0px 15px 0px !important;
 height: 27px;
 margin-top: 22px !important;
-margin-bottom: 0px !important;
+margin-bottom: 0px !important; and 
 background-color: #d9534f00;
 margin-left: 40px !important;
 
@@ -1012,13 +1012,7 @@ setInterval(function () {
     }, 10);
 
 
-var rid='r197230a9a24x8530ccb7-x-xln2gt';
-$("style:eq(0)").append(`#d2 .roomh[onclick="rjoin('${rid}')"]{
-background-size: 220% auto;border-radius:  10px 0 10px!important;border: 1px solid #0000;
-}`);
-$("style:eq(0)").append(`#upro .roomh[onclick="rjoin('${rid}')"]{
-background-image: url(https://up6.cc/2023/02/167640395089231.png); background-size: cover;color: #666666;
-}`);
+
 
 $(`<style>.nosel.d-flex.room.r197230a9a24x8530ccb7-x-xln2gt .corner.fa.fa-user.label.uc.fa-microphone.label-danger {letter-spacing: 1px;-webkit-text-fill-color: #fff;background-image: url(https://c.top4top.io/p_2408kxdxa1.png);padding: 3px !important;border-radius: 50px !important;}.nosel.d-flex.room.r197230a9a24x8530ccb7-x-xln2gt.bord {border-inline: 0px solid #000306 !important;}.nosel.d-flex.room.r197230a9a24x8530ccb7-x-xln2gt {border-radius: 0px 0px 15px 15px;display: inline-block;background-image: linear-gradient(-225deg, rgb(164, 164, 164) 0%, rgba(255, 0, 143, 0) 29%, rgba(151, 101, 127, 0.04) 67%, rgb(189, 189, 189) 100%);}.nosel.d-flex.room.r1842a962512x3cd64b84-x7eoc0l .dots.mini.u-msg {white-space: break-spaces;text-align: center;-webkit-text-fill-color: #0000;background-image: url(https://c.top4top.io/p_2452tp98x1.gif);-webkit-background-clip: text;color: transparent !important;background-size: 50% 150%;}.nosel.d-flex.room.r197230a9a24x8530ccb7-x-xln2gt .fitimg.u-pic.borderg{border-radius: 100px;border: 1px solid #000;letter-spacing: 1px;background-size: 108% 108%;-webkit-text-fill-color: white;animation: grad 2s cubic-bezier(.445,.05,.55,.95) alternate infinite;}.nosel.d-flex.room.r197230a9a24x8530ccb7-x-xln2gt .u-topic.dots {background-image: url(https://c.top4top.io/p_2484gnjnv1.gif);width: 220px;height: 20px;}@keyframes textclip {to {background-position: 200% center;}}</style>`).insertBefore('body');
 var rid='197230a9a24x8530ccb7-x-xln2gt';
