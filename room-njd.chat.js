@@ -308,7 +308,12 @@ text-shadow: 1px 1px 2px #fff, 0 0 25px #fff, 0 0 5px #fff!important;
   color: transparent !important;
   margin-top: 10px;
   display: none;
-}@keyframes textclip {to {background-position: 200% center;}}</style>`).insertBefore('body');
+  
+}
+@keyframes textclip {to {background-position: 200% center;}}</style>`).insertBefore('body');
+
+
+
 
 var rid='1954d7f930axc6212605-x-yfjje9';
 $("style:eq(0)").append(`#d2 .roomh[onclick="rjoin('${rid}')"]{
@@ -316,7 +321,7 @@ background-size: 220% auto;border-radius: 2px !important;border: 1px solid #0000
 }`);
 $("style:eq(0)").append(`#upro .roomh[onclick="rjoin('${rid}')"]{
 background-image: url(https://up6.cc/2025/05/17486367230631.png); background-size: cover;color: #666666;
-}`);
+}`)
 
 
 $(`<style>
@@ -571,4 +576,95 @@ box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
 	background-image: url(https://up6.cc/2025/05/17486367230631.png);
     background-size: cover;
 }
-.head.d-flex.nosel.bg.fl.tarab1, .rsave.btn.btn-primary.fr.tarab1, .fa.fa-send.sndpm.fl.btn.btn-p
+.head.d-flex.nosel.bg.fl.tarab1, .rsave.btn.btn-primary.fr.tarab1, .fa.fa-send.sndpm.fl.btn.btn-primary.tarab1, .fr.fa.fa-share-alt.sndfile.fl.btn.btn-primary.tarab1, .fr.fa.fa-share-alt.sndfilebc.fl.btn.btn-primary.tarab1, .bdel.corner.btn.minix.btn-primary.fa.fa-times.tarab1, .fa.fa-send.sndbc.fl.btn.btn-primary.tarab1 {
+    border-radius: 2px !important;
+    border: 1px solid #464646;
+    background-image: url(https://up6.cc/2025/05/17486367230631.png);
+    color: #000;
+    background-size: 295%;
+}
+.btn.btn-primary.u-nickc.fr.fa.fa-save.tarab1 {
+    border-radius: 2px !important;
+    border: 1px solid #e7e7e7;
+    background-image: url(https://up6.cc/2025/05/17486367230631.png);
+    color: #000;
+    background-size: 100%;
+}
+.label.fl.label-primary.tarab1 {
+    border-radius: 2px !important;
+    border: 1px solid #e7e7e7;
+    background-image: url(https://up6.cc/2025/05/17486367230631.png);
+    color: #000;
+    background-size: 100%;
+}
+#rooms.tarab1{background-color:#ecdce4!important;background-image:linear-gradient(225deg,#e3c4d3 0%,#fdedf5 29%,#f4f4f4 67%,#f9dbea 100%)}#settings.tarab1{background-color:#ecdce4!important;background-image:linear-gradient(225deg,#e3c4d3 0%,#fdedf5 29%,#f4f4f4 67%,#f9dbea 100%)}#d2bc.tarab1{background-color:#ecdce4!important;background-image:linear-gradient(225deg,#e3c4d3 0%,#fdedf5 29%,#f4f4f4 67%,#f9dbea 100%)}
+input.tarab1 {
+  border-radius: 2px !important;
+  border: 1px solid #ecdce4;
+}
+.dots.tarab1 {
+  border-radius: 2px !important;
+}
+.tc.tarab1 {
+  border-radius: 2px !important;
+  border: 1px solid #ecdce4;
+}
+.fl.u-pic.fitimg.tarab1 {
+  border: 1px solid;
+
+clip-path: inset(0px round 5px);
+animation: huerotate 2s infinite linear;
+box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 10px rgb(0 0 0), 0 0 0 0px #000;
+}
+.fl.borderg.tarab1 {
+  border-radius: 2px !important;
+  border: 1px solid #bfbfbf;
+}
+.uhtml.tarab1 {
+  border-radius: 2px;
+}
+
+#users.tarab1 .inroom .fitimg.u-pic {
+border: 1px solid;
+box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
+margin-top: 2px;
+margin-right: 2px;
+margin-left: -12px;
+height: 52px;
+border-radius: 2px;
+}
+
+#room.tarab1 {
+   background-color: white;
+}
+
+button.blike.corner.btn.minix.btn-danger.fa.fa-heart.tarab1 {
+   border-radius: 2px;
+}
+button.border.btn.label.label-success.fl.fa.fa-plus.tarab1 {
+   border-radius: 2px;
+}
+button.rsave.btn.btn-primary.fl.tarab1 {
+   background-image: url(https://up6.cc/2025/05/17486367230631.png);
+   background-size: cover;
+   border-radius: 2px;
+}
+
+
+`);
+var tarab = false;
+setInterval(function () {
+    if (myroom == '1954d7f930axc6212605-x-yfjje9') {
+        if (tarab == false) {
+            tarab = true;
+                $('#d0, #users, #d2, #mic, #settings, #rooms, #room, #d0, #chats, #d2bc, #muteall, #wall, #dpnl, #upro').addClass('tarab1');
+		$('input, button.rsave.btn.btn-primary.fl, button.border.btn.label.label-success.fl.fa.fa-plus, button.blike.corner.btn.minix.btn-danger.fa.fa-heart, .fl.borderg, .fl.u-pic.fitimg, .dots, .tc, .label.fl.label-primary, .btn.btn-primary.u-nickc.fr.fa.fa-save, .modal-header.label-primary, .corner.border.label.label-primary,.head.d-flex.nosel.bg.fl, .rsave.btn.btn-primary.fr, .fa.fa-send.sndpm.fl.btn.btn-primary, .fr.fa.fa-share-alt.sndfile.fl.btn.btn-primary, .fr.fa.fa-share-alt.sndfilebc.fl.btn.btn-primary, .bdel.corner.btn.minix.btn-primary.fa.fa-times, .fa.fa-send.sndbc.fl.btn.btn-primary').addClass('tarab1');
+        }
+    } else {
+        if (tarab == true) {
+            tarab = false;
+                $("#d0, #users, #d2, #mic, #settings, #rooms, #room, #d0, #chats, #d2bc, #muteall, #wall, #dpnl, #upro").removeClass('tarab1');
+		$('input, button.rsave.btn.btn-primary.fl, button.border.btn.label.label-success.fl.fa.fa-plus, button.blike.corner.btn.minix.btn-danger.fa.fa-heart, .fl.borderg, .fl.u-pic.fitimg, .dots, .tc, .label.fl.label-primary, .btn.btn-primary.u-nickc.fr.fa.fa-save, .modal-header.label-primary, .corner.border.label.label-primary, .head.d-flex.nosel.bg.fl, .rsave.btn.btn-primary.fr, .fa.fa-send.sndpm.fl.btn.btn-primary, .fr.fa.fa-share-alt.sndfile.fl.btn.btn-primary, .fr.fa.fa-share-alt.sndfilebc.fl.btn.btn-primary, .bdel.corner.btn.minix.btn-primary.fa.fa-times, .fa.fa-send.sndbc.fl.btn.btn-primary').removeClass('tarab1');
+            } 
+        } 
+    }, 10);
