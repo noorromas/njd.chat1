@@ -457,7 +457,7 @@ height: 52px;
 #users.tarab1 .mini.u-msg{text-align:center;}#dpnl.tarab1.bg{background-image:linear-gradient(225deg,#ce96b3 0%,#d091b1 29%,#eec6da 67%,#b77c9a 100%) */}#rooms.tarab1 .corner.fa.fa-user.label.uc.fa-microphone.label-danger{border-radius: 50px!important}
 #rooms.tarab1 .nosel.label-primary.fl.bgg, #rooms.tarab1 .label.label-primary.uc {
   border-radius: 2px !important;
-  background-color: #cecece00 !important;
+  background-color: # !important;
 }
 #users.tarab1 img.ustat {
     width: 13px !important;
