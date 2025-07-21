@@ -165,13 +165,13 @@ $(`<style>
 }
 .nosel.d-flex.r1971cb57ec8x01434d43x-vf95n5 .corner.fa.fa-user.label.uc.fa-microphone.label-danger {
 letter-spacing: 1px;
--webkit-text-fill-color: #fff;
+-webkit-text-fill-color: #007A07;
 border-radius: 15px 0px 15px 0px !important;
 height: 27px;
 margin-top: 34px !important;
 margin-bottom: 0px !important;
-background-color: #8dd9bd;
-margin-left: 173px !important;
+background-color: #8dd9bd00;
+margin-left: -173px !important;
 
 }
 
